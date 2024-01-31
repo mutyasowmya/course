@@ -34,8 +34,6 @@ Add any personal reflections, considerations, or key decisions made during the d
    - Assumption: Production deployment requires specific environment variables such as `PROD_DATABASE_URL`.
    - Rationale: Configuring environment variables ensures security and flexibility in deployment.
 
-## Getting Started
 
-Add instructions for running the application in both development and production environments.
 
 ...
